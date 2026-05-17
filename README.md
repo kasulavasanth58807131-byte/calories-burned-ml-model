@@ -50,33 +50,10 @@ calories-burned-predictor/
 - 🥇 **Percentile context** — see how you compare to the dataset
 - 🍕 **Food equivalents** — fun calorie comparison (apples, pizza, chocolate!)
 
----
-
-## ⚙️ Run Locally
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/calories-burned-predictor.git
-cd calories-burned-predictor
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the app
-streamlit run app.py
-```
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
 
-1. Push this repo to **GitHub** (all files including `model.pkl` and `df.pkl`)
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) → **New App**
-3. Connect your GitHub repo
-4. Set **Main file** to `app.py`
-5. Click **Deploy** — done! 🎉
-
----
 
 ## 📈 Model Performance
 
@@ -105,7 +82,7 @@ streamlit run app.py
 ## 👤 Author
 
 **Vasanth** · Data Science Intern  
-📧 [your-email@gmail.com] · 🔗 [LinkedIn] · 💼 [Portfolio]
+📧 kasulavasanth55@gmail.com · 🔗 [[LinkedIn]](https://www.linkedin.com/in/vasanth-kasula-314428285/) 
 
 ---
 
